@@ -1,0 +1,54 @@
+.app-content {
+  /* On larger screens, add a left margin equal to the sidebar's width */
+  margin-left: 250px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* --- Responsive Styles for smaller screens --- */
+@media (max-width: 768px) {
+  /* On smaller screens, the sidebar is hidden, so the content takes up the full width */
+  .app-content {
+    margin-left: 0;
+  }
+
+  /* By default, the sidebar is moved off-screen */
+  .sidebar {
+    transform: translateX(-100%);
+  }
+
+  /* When the layout has the 'sidebar-open' class, slide the sidebar into view */
+  .app-layout.sidebar-open .sidebar {
+    transform: translateX(0);
+  }
+
+  /* Show the overlay when the sidebar is open to dim the background */
+  .app-layout.sidebar-open .overlay {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999; /* Below sidebar, above content */
+  }
+}
+
+.overlay {
+  display: none;
+}
+.page-enter-animation {
+  animation: pageFadeIn 0.4s ease-in-out;
+}
+
+@keyframes pageFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

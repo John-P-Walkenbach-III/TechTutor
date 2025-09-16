@@ -1,0 +1,70 @@
+Your First One-Hour Class: "Demystifying Your Computer"
+
+This lesson plan is designed for a 60-minute, in-person class for absolute beginners. It uses the core principles from your notes to create a structured, engaging, and effective learning experience.
+
+**Core Topics:** What is a Computer (Hardware vs. Software), and the "Big Three" components (CPU, RAM, Storage).
+
+---
+
+### The 60-Minute Structure
+
+**1. The Hook: Connecting with the Audience (5 Minutes)**
+
+*   **Goal:** Make everyone feel like this class is for them. Avoid technical definitions.
+*   **Script Idea:**
+    > "Good morning, everyone! Let me ask you a question: Has your computer ever felt frustratingly slow? Or have you ever been shopping for a new phone or laptop, looked at the specs like '8GB of RAM' or 'i7 CPU', and felt completely overwhelmed?
+    >
+    > My goal today is to pull back the curtain on all of that. By the end of this hour, you'll understand what those terms actually mean, and you'll be a more confident and empowered tech user, whether you're using your computer at home or shopping for a new one."
+
+---
+
+**2. The Big Picture: Hardware vs. Software (10 Minutes)**
+
+*   **Goal:** Explain the highest-level concept using a simple, powerful analogy.
+*   **Analogy (from your notes):**
+    > "Let's start with the absolute basics. Every computer, from a giant desktop to the phone in your pocket, is like a person.
+    >
+    > The **Hardware** is the **body**—the physical stuff you can touch, like the screen, the keyboard, and the mouse.
+    >
+    > The **Software** is the **mind**—the thoughts and instructions that tell the body what to do. Your web browser, your email program, the Windows operating system itself—that's all software.
+    >
+    > You can't have one without the other. A body without a mind can't do anything, and a mind without a body has no way to interact with the world."
+*   **Interaction:**
+    *   Ask the class: "Can someone name one piece of hardware on the computer in front of you?" (Get answers like mouse, monitor, keyboard).
+    *   Ask: "Now, can you name a piece of software you use?" (Get answers like Google Chrome, Microsoft Word, email).
+
+---
+
+**3. The Core Components: Inside the Computer's "Workshop" (20 Minutes)**
+
+*   **Goal:** Demystify CPU, RAM, and Storage using the workshop analogy. This is the main teaching segment.
+*   **Visual Aid (Crucial!):** If at all possible, bring an old, open computer tower. The ability to hold up a physical part is more powerful than any slide.
+*   **Analogy (from your notes):**
+    > "Okay, let's look inside the computer case. It can look complicated, but you only need to know three main parts. Think of it like a workshop.
+    >
+    > 1.  **The CPU is YOU, the worker.** The CPU (Central Processing Unit) is the brain. It does all the thinking and follows all the instructions. A faster CPU is like a worker who can get jobs done more quickly. *(If you have a physical CPU, point to where it lives under the big fan).*
+    >
+    > 2.  **The RAM is your WORKBENCH.** RAM (Random-Access Memory) is your computer's short-term memory. The bigger your workbench, the more projects you can have open at once without making a mess. If your workbench is too small, you have to keep putting things away to make room, which slows you down. That's why more RAM lets you run more programs at the same time smoothly. *(Hold up a stick of RAM. This is the most effective part of the visual aid).*
+    >
+    > 3.  **The Storage is your FILING CABINET.** The Hard Drive or SSD is your computer's long-term memory. This is where you keep all your tools and old projects stored away safely, even when the power is off. Your photos, documents, and programs all live in the filing cabinet."
+
+---
+
+**4. The Practical Payoff: Becoming a Smart Shopper (10 Minutes)**
+
+*   **Goal:** Connect the lesson back to the real-world problem from the hook.
+*   **Script Idea:**
+    > "So, let's bring this all together. Now when you see an ad for a laptop:
+    >
+    > *   If it says '16GB of RAM' instead of 8GB, what does that mean for you? (Answer: You can have more browser tabs, your email, and a music app all open without it slowing down.)
+    > *   If it says it has an 'SSD' (Solid-State Drive), what does that mean? (Answer: It's a much faster filing cabinet. Your computer will start up in seconds, not minutes.)
+    > *   You now know more than most people about what's actually going on inside the box!"
+
+---
+
+**5. Q&A and Encouragement (15 Minutes)**
+
+*   **Goal:** Answer questions and build confidence.
+*   **Framing:** "Alright, that was a lot of information! Now it's time for my favorite part: the Q&A. Think of this as a 'debugging' session for any questions you have. There are no bad questions."
+*   **Anticipate Questions:** Be ready for "How much RAM do I need?", "What's a graphics card?", "Is it worth upgrading my old computer?".
+*   **Closing Statement:** "Thank you all for coming. The goal today wasn't to make you an expert, but to make you feel more comfortable and in control of the technology you use every day. You've learned the core concepts that power every computer in the world. You got this!"

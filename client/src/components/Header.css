@@ -1,0 +1,49 @@
+.app-header {
+  grid-area: header;
+  background-color: #2a3a4a;
+  padding: 1rem 1.5rem;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the title by default */
+  position: relative;      /* Provide positioning context for the button */
+}
+
+.header-title {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.menu-toggle {
+  display: none; /* Hidden by default, shown in media query */
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 1100; /* Above sidebar and overlay */
+  position: absolute;    /* Take button out of the layout flow */
+  left: 1.5rem;          /* Position it on the left */
+  top: 50%;
+  transform: translateY(-50%); /* Center it vertically */
+}
+
+.menu-toggle span {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 5px 0;
+  transition: all 0.3s;
+}
+
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+  .header-title {
+    font-size: 1.1rem; /* Make title a bit smaller on mobile */
+    /* Use more padding to ensure the text doesn't go under the absolute-positioned button */
+    padding: 0 50px;
+    box-sizing: border-box; /* Ensure padding is included in the element's total width */
+  }
+}

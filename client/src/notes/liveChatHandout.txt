@@ -1,0 +1,26 @@
+How to Join Our Weekly Live Tech Support Chat
+
+---
+
+**What is it?**
+A friendly, live video chat where you can ask the instructor any tech questions you have. No question is too small!
+
+**When is it?**
+${zoomConfig.schedule}
+
+**Where is it?**
+A live video meeting on Zoom.
+
+**The Magic Link:**
+${zoomConfig.link}
+
+---
+
+**How to Join: Step-by-Step**
+
+1.  A few minutes before ${zoomConfig.scheduleTime}, click the Zoom link above.
+2.  A new tab will open in your web browser. It may ask for your permission to open the "Zoom" application. It's okay to click "Open" or "Allow".
+3.  You will be placed in a "Waiting Room." This is normal! The instructor will let you in as soon as the session starts.
+4.  Your microphone will be muted when you join. You can unmute it when it's your turn to ask a question.
+
+**First-Time Tip:** For the smoothest experience, you can download the Zoom app to your computer or phone ahead of time from https://zoom.us/download.

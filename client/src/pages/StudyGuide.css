@@ -1,0 +1,87 @@
+.study-topic-container {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.7;
+  
+}
+
+.study-topic-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  
+}
+
+.study-topic-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.print-button {
+  padding: 8px 16px;
+  border: 1px solid #6c757d;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #6c757d;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+.print-button:hover {
+  background-color: #f8f9fa;
+}
+.complete-button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.complete-button:hover {
+  background-color: #218838;
+}
+
+.completed-badge {
+  padding: 8px 16px;
+  border-radius: 5px;
+  background-color: #e9ecef;
+  color: #495057;
+  font-weight: bold;
+}
+
+/* These styles only apply when the page is being printed */
+@media print {
+  .app-header, .sidebar, .study-topic-actions, .navigation-footer {
+    display: none;
+  }
+}
+
+.navigation-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e0e0e0;
+  text-align: right;
+}
+
+.next-topic-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.next-topic-button:hover {
+  background-color: #0056b3;
+  color: white;
+}

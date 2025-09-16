@@ -1,0 +1,50 @@
+.coming-soon-banner {
+ background: #0d1a1a; /* Dark teal background */
+  color: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 8px;
+  text-align: center;
+    border: 2px solid #00c4b3;
+  /* New glowing animation for the banner itself */
+  animation: glow 1.5s infinite alternate;
+  max-width: 800px;
+}
+
+.coming-soon-banner h2 {
+  margin: 0 0 10px 0;
+  font-size: 1.8rem;
+    font-family: 'Courier New', Courier, monospace; /* A more 'digital' font */
+  /* New flickering animation for the text */
+  animation: flicker 2s infinite alternate;
+}
+
+.coming-soon-banner p {
+  margin: 0;
+  font-size: 1.1rem;
+    color: #b2dfdb; /* A lighter teal for better readability */
+
+}
+
+/* Animation for the banner's outer glow */
+@keyframes glow {
+  from {
+    box-shadow: 0 0 5px #00796b, 0 0 10px #00796b, 0 0 15px #00796b;
+  }
+    to {
+    box-shadow: 0 0 10px #00c4b3, 0 0 20px #00c4b3, 0 0 30px #00c4b3;
+  }
+}
+
+/* Animation for the flickering text 'neon' effect */
+@keyframes flicker {
+  0%, 18%, 22%, 25%, 53%, 57%, 100% {
+    text-shadow:
+      0 0 4px #fff,
+      0 0 11px #00c4b3,
+      0 0 19px #00c4b3;
+  }
+  20%, 24%, 55% {
+    text-shadow: none;
+  }
+}

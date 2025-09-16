@@ -1,0 +1,24 @@
+
+
+.video-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.video-list li {
+  margin-bottom: 0.75rem;
+}
+
+.video-list a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1.1rem;
+}
+
+.video-list a:hover {
+  text-decoration: underline;
+}
+
+.completion-check {
+  margin-left: 8px;
+}

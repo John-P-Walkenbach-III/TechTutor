@@ -1,0 +1,41 @@
+.category-page-container {
+  padding: 20px;
+}
+
+.category-page-container h2 {
+  margin-top: 0;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.topic-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.topic-list li {
+  margin-bottom: 0.75rem;
+  background-color: #f8f9fa;
+  padding: 12px 15px;
+  border-radius: 5px;
+  transition: background-color 0.2s;
+}
+
+.topic-list li:hover {
+  background-color: #e9ecef;
+}
+
+.topic-list a {
+  text-decoration: none;
+  color: #007bff;
+  font-size: 1.1rem;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.completion-check {
+  font-size: 1rem;
+}

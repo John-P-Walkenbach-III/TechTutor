@@ -1,0 +1,66 @@
+Your One-Hour Class: "Pay with Your Phone: Mastering Google Wallet"
+
+This lesson plan is designed for a 60-minute, interactive class for beginners with Android phones. It uses the content from your "Digital Wallet" topic to create a practical, hands-on learning experience.
+
+**Core Topics:** What is a digital wallet, setting up Google Wallet, using it to pay, and understanding its security features.
+
+---
+
+### The 60-Minute Structure
+
+**1. The Hook: The Relatable Problem (5 Minutes)**
+
+*   **Goal:** Connect with a common frustration and introduce a modern solution.
+*   **Script Idea:**
+    > "Good morning! Have you ever been at the grocery store, juggling your items, and had to dig through your purse or pocket to find your wallet? Or maybe you've seen people just tap their phone to pay and wondered, 'How do they do that? Is it even safe?'
+    >
+    > Today, we're going to answer those questions. My goal is to show you how to use the Google Wallet app on your Android phone to make payments. By the end of this hour, you'll not only know how to do it, but you'll also understand why it's actually *more secure* than using your physical credit card."
+
+---
+
+**2. The Big Picture: What IS a Digital Wallet? (10 Minutes)**
+
+*   **Goal:** Explain the concept with a simple, powerful analogy that builds trust.
+*   **Analogy:**
+    > "Let's start with the big idea. A digital wallet, like Google Wallet, is exactly what it sounds like: a secure app that holds digital copies of your cards.
+    >
+    > But it's much smarter than your physical wallet. Think of it like this: Your physical card is out in the open. A digital card in Google Wallet is like having your credit card locked inside a personal safe. And that safe can only be opened with *your* key—your fingerprint, your face, or your PIN code."
+*   **Interaction:**
+    *   "Let's get our phones out. Who here has an Android phone, like a Samsung, Google Pixel, or Motorola? Raise your hand. Great! This class is for you."
+    *   "Anyone with an iPhone? You have a very similar feature called Apple Pay. The ideas we talk about today—especially security—are exactly the same for you."
+
+---
+
+**3. The Workshop: Setup & Use (25 Minutes)**
+
+*   **Goal:** Guide students through the setup process and simulate a payment. This is the most hands-on part of the class.
+*   **Part A: Setting Up Google Wallet (15 mins)**
+    *   **Guide:** "Okay, let's all find the Wallet app. It's a colorful 'W' icon. If you don't see it, we can find it in the Google Play Store."
+    *   **Walkthrough:** Guide them step-by-step. "Open the app. You'll see a button that says 'Add to Wallet'. Tap that, and then tap 'Payment card'."
+    *   **Explain, Don't Do:** "You don't have to add a real card right now, but let's walk through the steps. It will ask to use your camera to scan the card, or you can enter the details manually. This is the only time you'll need your physical card for setup."
+*   **Part B: How to Pay (10 mins)**
+    *   **Show the Symbol:** Display a large image of the contactless payment symbol (like a sideways Wi-Fi symbol). "This is the magic symbol you'll look for at the checkout counter. It's on most card readers now."
+    *   **The Simple Steps:** "Once your card is set up, paying is incredibly simple.
+        1.  First, just unlock your phone like you normally would.
+        2.  Second, hold the back of your phone near that symbol on the card reader.
+        3.  That's it! You'll hear a beep and see a checkmark on your phone screen. You don't even have to open the app."
+
+---
+
+**4. The "Aha!" Moment: Why It's Safer (10 Minutes)**
+
+*   **Goal:** Directly address security concerns and show why it's a superior method.
+*   **Script (using your topic notes):**
+    > "Now for the most important question: is it safe? The answer is yes, and here are the two big reasons why it's safer than your physical card.
+    >
+    > 1.  **Your real card number is never shared.** When you pay, Google sends a temporary, one-time-use number called a 'token'. The store never sees or stores your actual credit card number. This is a massive security upgrade.
+    > 2.  **It requires your unlock.** If you lose your physical wallet, anyone can grab a card and try to use it. If you lose your phone, a thief can't make a payment because they can't get past your lock screen. Your fingerprint or PIN is the key."
+
+---
+
+**5. Q&A and What's Next (10 Minutes)**
+
+*   **Goal:** Answer questions and briefly touch on other Wallet features.
+*   **Framing:** "Alright, let's open it up for questions. What are you curious or concerned about? There are no silly questions when it comes to your money."
+*   **Anticipate Questions:** Be ready for "What if my battery dies?", "Does it cost money to use?", "Can I add my loyalty cards or airline tickets?" (Answer: Yes! It's not just for payment cards).
+*   **Closing Statement:** "Thank you for coming! You've just learned a skill that makes life more convenient and your financial information more secure. I encourage you to try setting up just one card when you get home. You've got this!"

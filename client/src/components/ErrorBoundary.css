@@ -1,0 +1,23 @@
+.error-boundary {
+  padding: 2rem;
+  background-color: #f8d7da; /* A standard Bootstrap-like danger background */
+  border: 1px solid #f5c6cb;
+  border-radius: 8px;
+  color: #721c24; /* A darker, more readable red for text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 2rem; /* Add some margin to not stick to the edges */
+}
+
+.error-boundary h2 {
+  margin-top: 0;
+  color: #721c24;
+  display: flex;
+  align-items: center;
+}
+
+.error-boundary h2::before {
+  content: '⚠️'; /* Warning emoji */
+  font-size: 1.5rem;
+  margin-right: 0.75rem;
+  display: inline-block;
+}

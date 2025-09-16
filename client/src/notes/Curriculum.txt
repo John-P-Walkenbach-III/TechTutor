@@ -1,0 +1,145 @@
+Module 1: Computer Basics
+Goal: Understand what a computer is and how to interact with it physically.
+
+Level 1: Foundations
+
+Study Guide: What is a Computer? (Hardware vs. Software)✅
+Study Guide: The Essential Parts (Monitor, Tower, Keyboard, Mouse)
+Study Guide: Using the Mouse: Pointing, Clicking, and Dragging
+Study Guide: Using the Keyboard: Typing and Special Keys (Enter, Shift, Backspace)
+Quiz: Computer Basics Level 1
+
+Level 2: Core Skills
+
+Study Guide: Turning the Computer On and Off Safely
+Study Guide: Understanding the Desktop, Icons, and the Taskbar
+Study Guide: Opening and Closing Programs
+Quiz: Computer Basics Level 2
+Badge Unlocked: 💻 Computer Basics Pioneer
+
+Module 2: Windows Navigation
+Goal: Confidently navigate the Windows operating system to find and manage applications.
+
+Level 1: Foundations
+
+Study Guide: Introduction to the Start Menu
+Study Guide: Finding and Launching Your Applications
+Study Guide: Understanding Windows: Minimize, Maximize, and Close
+Quiz: Windows Navigation Level 1
+Level 2: Core Skills
+
+Study Guide: Switching Between Open Applications (Alt+Tab)
+Study Guide: Introduction to Files and Folders
+Study Guide: Using File Explorer to See Your Files
+Quiz: Windows Navigation Level 2
+Level 3: Proficiency
+
+Study Guide: Creating, Saving, and Opening a Document
+Study Guide: Copy, Paste, and Moving Files
+Study Guide: Useful Keyboard Shortcuts (Ctrl+C, Ctrl+V, Ctrl+Z)
+Quiz: Windows Navigation Level 3
+Badge Unlocked: 🧭 Windows Navigator
+
+Module 3: Mobile Phone Basics
+Goal: Master the core functions of both iPhone and Android smartphones.
+
+Level 1: Foundations (Universal Concepts)
+
+Study Guide: What is a Smartphone? (iPhone vs. Android)
+Study Guide: Basic Touchscreen Gestures (Tap, Swipe, Pinch-to-Zoom)
+Study Guide: Understanding the Home Screen, Icons, and Widgets
+Study Guide: Connecting to Wi-Fi
+Quiz: Mobile Foundations
+Level 2: Core Skills (Device Specific)
+
+Study Guide (iPhone): Making Calls & Sending Messages
+Study Guide (Android): Making Calls & Sending Messages
+Study Guide (iPhone): Using the App Store to Install Apps
+Study Guide (Android): Using the Google Play Store to Install Apps
+Study Guide: Taking Photos and Finding Them in Your Gallery
+Quiz: Mobile Core Skills
+Level 3: Proficiency (Universal Concepts)
+
+Study Guide: Managing Notifications and Control Center/Quick Settings
+Study Guide: Basic Settings: Brightness, Volume, and Airplane Mode
+Study Guide: Understanding Mobile Data vs. Wi-Fi
+Quiz: Mobile Proficiency
+Badge Unlocked: 📱 Mobile Maestro
+
+Module 4: Web Development
+Goal: Understand the fundamental building blocks of the web: HTML, CSS, and JavaScript.
+
+Level 1: HTML Foundations
+
+Study Guide: Introduction to HTML (Review)
+Study Guide: HTML Document Structure in Depth
+Study Guide: Common HTML Tags for Text
+Study Guide: Creating Lists in HTML
+Study Guide: Links and Images
+Study Guide: HTML Tables
+Quiz: HTML Document Structure
+Quiz: HTML Text Tags
+Quiz: HTML Lists
+Quiz: HTML Links & Images
+Quiz: HTML Tables
+
+Badge Unlocked: 🏗️ Web Architect
+
+Level 2: CSS Foundations
+
+Study Guide: Introduction to CSS (Review)
+Study Guide: CSS Selectors in Depth (Class, ID, Element)
+Study Guide: The Box Model (Margin, Border, Padding)
+Study Guide: Common CSS Properties for Styling
+Study Guide: Understanding CSS Units (px, em, rem, %)
+Quiz: CSS Selectors
+Quiz: The Box Model
+Quiz: CSS Properties
+
+Level 3: JavaScript Foundations
+
+Study Guide: Introduction to JavaScript (Review)
+Study Guide: JavaScript Variables and Data Types
+Study Guide: JavaScript Functions and Events
+Study Guide: Introduction to the DOM
+Quiz: JavaScript Variables and Data Types
+Quiz: JavaScript Functions and Events
+
+Level 4: Tools and Debugging
+
+Study Guide: Using the Browser's Developer Tools
+Quiz: Browser Developer Tools
+
+
+For Authoritative, Factual Content (The "What")
+These sites are the official source of truth and are perfect for getting accurate definitions and technical details.
+
+Microsoft Support & Learn
+
+Website: support.microsoft.com and learn.microsoft.com
+Why it's great: This is the best place for anything related to Windows. Their "Get to know Windows" sections are fantastic for building your "Windows Navigation" study guides.
+Apple Support
+
+Website: support.apple.com
+Why it's great: Apple provides extremely clear, user-friendly guides for all their products. Their iPhone User Guide is a goldmine for your "Mobile Phone Basics" section.
+Android Help Center
+
+Website: support.google.com/android
+Why it's great: This is Google's official help center for Android. It's perfect for creating study guides on core Android features that apply to most devices.
+For Simple, Clear Explanations (The "How")
+These sites excel at breaking down complex topics into easy-to-understand, step-by-step articles. They are perfect for finding different ways to explain a concept.
+
+How-To Geek
+
+Website: howtogeek.com
+Why it's great: They are masters of the "explainer" article. If you need to explain what a CPU is or how to use the Start Menu in simple terms, they will have a great article on it.
+Lifewire
+
+Website: lifewire.com
+Why it's great: Very similar to How-To Geek, they provide clear, well-vetted articles on a huge range of tech topics. Their content is reliable and aimed at a general audience.
+For Curriculum and Lesson Plan Ideas
+Sometimes it's helpful to see how other people structure their courses.
+
+Public Library Resources
+How to find them: Try searching for things like "digital literacy curriculum public library" or "computer basics for seniors handout".
+Why it's great: Many public libraries have fantastic digital literacy programs and often publish their materials online. This can give you great ideas for how to sequence your lessons and what topics to include.
